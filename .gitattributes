@@ -1,6 +1,6 @@
 secret.json filter=secrets
 
 # Для всех .bat файлов используем CRLF (Windows-style)
-*.bat text eol=crlf
+*.bat eol=crlf
 # Для всех .sh файлов используем LF (Unix-style)
-*.sh text eol=lf
+*.sh eol=lf
