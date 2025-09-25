@@ -4,6 +4,4 @@ build/
 *.bak
 *.txt
 !README.txt
-/WantSleep1.2.csproj
-/WantSleep1.2.sln
 /secret.json.real
